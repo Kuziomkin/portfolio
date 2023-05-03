@@ -14,3 +14,7 @@ Proven ability to conduct thorough research of problems and make data-driven dec
 - Microsoft Certified: Azure Data Fundamentals (https://www.credly.com/badges/6f962eb7-1237-4507-bcb8-8548948181a4/public_url)
 - [PCEP-30-02] PCEP – Certified Entry-Level Python Programmer (https://www.credly.com/badges/46cd75ba-f49a-4ae4-9163-8ff4d94ad419?source=linked_in_profile)
 - Databricks Lakehouse Fundamentals (https://credentials.databricks.com/6d9b4e75-1120-478c-93dd-a8629b79c061)
+
+## Projects
+|#|Project Name|Description|Result Link|Source Code|
+|---|---|---|---|---|
