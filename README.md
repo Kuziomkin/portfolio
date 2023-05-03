@@ -21,3 +21,4 @@ Proven ability to conduct thorough research of problems and make data-driven dec
 |#|Project Name|Topic|Description|Result Link|Source Code|
 |---|---|---|---|---|---|
 |1|Analytics case study "Dannys dinner"|SQL|This is the first case study from 8WEEKSQLCHALLENGE by Danny Ma|https://github.com/Kuziomkin/analytics_case_study/blob/main/dannys_dinner/dannys_diner_sql.ipynb||
+|2|Analytics case study "Dannys dinner"|SQL|This is the second case study from 8WEEKSQLCHALLENGE by Danny Ma|https://github.com/Kuziomkin/analytics_case_study/blob/main/pizza_runner/pizza_runner_sql.ipynb||
