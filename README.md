@@ -1,4 +1,4 @@
-# About
+# Dzianis Kuziomkin Summary
 Skilled Business System Analyst with five years of experience in the IT industry. 
 An analytical thinker who works collaboratively to deliver results. 
 Expertise in determining product specifications, creating production timelines, and developing in-depth plans for product development. 
@@ -15,6 +15,9 @@ Proven ability to conduct thorough research of problems and make data-driven dec
 - [PCEP-30-02] PCEP – Certified Entry-Level Python Programmer (https://www.credly.com/badges/46cd75ba-f49a-4ae4-9163-8ff4d94ad419?source=linked_in_profile)
 - Databricks Lakehouse Fundamentals (https://credentials.databricks.com/6d9b4e75-1120-478c-93dd-a8629b79c061)
 
+You can find me in the Linkedin: https://www.linkedin.com/in/dzianis-kuziomkin/
+
 ## Projects
 |#|Project Name|Description|Result Link|Source Code|
 |---|---|---|---|---|
+|1|Analytics case study "Dannys dinner"|First|This is the first case study from 8WEEKSQLCHALLENGE |
