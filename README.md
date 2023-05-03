@@ -15,7 +15,7 @@ Proven ability to conduct thorough research of problems and make data-driven dec
 - [PCEP-30-02] PCEP – Certified Entry-Level Python Programmer (https://www.credly.com/badges/46cd75ba-f49a-4ae4-9163-8ff4d94ad419?source=linked_in_profile)
 - Databricks Lakehouse Fundamentals (https://credentials.databricks.com/6d9b4e75-1120-478c-93dd-a8629b79c061)
 
-You can find me in the Linkedin: https://www.linkedin.com/in/dzianis-kuziomkin/
+__You can find me in the Linkedin: https://www.linkedin.com/in/dzianis-kuziomkin/__
 
 ## Projects
 |#|Project Name|Description|Result Link|Source Code|
